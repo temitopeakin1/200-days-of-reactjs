@@ -30,6 +30,12 @@ Commenced March 13th 2022 -- End June 20th 2022.
 12. Bonus: Harvard CS50 Mobile App Developement with React Native
 13. Mastering Full stack React Web development-- Tomasz Dyl
 
+📖 Reading Resources:
+1. https://reactjs.org/
+2. https://vasanthk.gitbooks.io/react-bits/
+3. https://www.fullstackreact.com/
+4. http://shop.oreilly.com/product/0636920049579.do
+
 Week 1
 Treehouse’s 7 hour React course https://teamtreehouse.com/tracks/learn-react Note: Treehouse offers a 7-day free trial
 
@@ -168,7 +174,6 @@ Week 6 weekend project: Build a Yelp Clone
 
 Week 7
 React for Beginners: https://reactforbeginners.com/
-
  Thinking and Understanding React Components
  Introduction, Tooling and Editor Setup
  Thinking and Understanding React Components
@@ -200,6 +205,130 @@ React for Beginners: https://reactforbeginners.com/
  Deploying to an Apache Server
  Ejecting from create-react-app
 Week 7 weekend project: Build a Custom Calendar in React:
+
+Week 8:
+https://egghead.io/q/react
+  The Beginner’s Guide to React
+  Getting Started with Redux
+  Share Logic Across Multiple React Components with Custom Hooks
+  Advanced React Component Patterns
+  React Testing Cookbook
+  Use the useState React Hook
+  Store Values in localStorage with the React useEffect Hook
+  Simplify React Apps with React Hooks
+  Add routing to React apps using React Router v4
+  
+ Week 9:
+ https://www.udemy.com/course/react-redux/: Modern React with Redux by Stephen Grider
+ React by Academind Maximillian on Udemy
+ Let’s Dive In!
+   Building Content with JSX
+   Communicating with Props
+   Structuring Apps with Class-Based Components
+   State in React Components
+   Understanding Lifecycle Methods
+   Handling User Input with Forms and Events
+   Making API Requests with React
+   Building Lists of Records
+   Using Ref’s for DOM Access
+   Let’s Test Your React Mastery!
+   On We Go…To Redux!
+   Integrating React with Redux
+   
+Week 10:
+https://www.udemy.com/course/react-redux/: Modern React with Redux by Stephen Grider
+   Async Actions with Redux Thunk
+   Redux Store Design
+   Navigation with React Router
+   Handling Authentication with React
+   Redux Dev Tools
+   Handling Forms with Redux Form
+   REST-Based React Apps
+   Using React Portals
+   Implementing Streaming Video
+   The Context System with React
+   Replacing Redux with Context
+   
+Week 11:
+https://www.udemy.com/course/react-redux/: Modern React with Redux by Stephen Grider
+   Hooks with Functional Components
+   More Fun with Hooks
+   An Intro to React
+   Ajax Requests with React
+   Modeling Application State
+   Managing App State with Redux
+
+Week 12:
+https://www.udemy.com/course/react-redux/: Modern React with Redux by Stephen Grider
+   Intermediate Redux: Middleware
+   React Router + Redux Form v6
+   RallyCoding
+   React Router + Redux Form v4
+   
+Week 13:
+https://advancedreact.com/
+   Module 1: Introduction and Setup
+   Module 2: CSS and Styled Components
+   Module 3: Server Side GraphQL
+   Module 4: Client Side GraphQL
+   Module 5: Accounts, Authentication and Permissions
+   Module 6: Shopping Cart
+   Module 7: Advanced UI and Code Quality
+   Module 8: Credit Card Checkout
+   Module 9: Testing
+   Module 10: Deployment
+
+Week 14:
+React Project — Beach Resort https://youtu.be/ScDWrogElmo
+
+Week 15:
+Contribute to Open Source
+https://github.com/facebook/react/labels/good%20first%20issue
+https://github.com/reactjs/reactjs.org/labels/good%20first%20issue
+https://github.com/facebook/create-react-app/labels/good%20first%20issue
+https://github.com/storybookjs/storybook/labels/good%20first%20issue
+https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue
+
+
+💻 30 React Project Ideas:
+   Emoji Search
+   Pokedex
+   Shopping Cart
+   React Powered Hacker News Client
+   Github Battle App
+   Timestamped Notes App
+   Progressive Web Tetris
+   Calculator
+   Product Comparison Page
+   Hacker News Clone React/GraphQL
+   Bitcoin Price Index
+   Builder Book
+   GFonts Space
+   Trending GIFs from Giphy
+   Mini Netflix — https://scotch.io/tutorials/build-a-mini-netflix-with-react-in-10-minutes
+   Bingo Game https://holidaymoviebingo.netlify.com
+   Simple real-time search
+   Basic To-Do List App
+   Javascript Calculator
+   Current Weather
+   Random Quote Generator
+   Tic-Tac-Toe Game
+   Simon Game
+   Twitch TV API
+   Pomodoro Clock
+   Wikipedia Viewer
+   Recipe Box App
+   Camper Leaderboard
+   React Markdown Previewer
+   Dungeon Crawler
+   [BONUS] Bookstore: Online book store built over react-redux and Bootstrap for UI. https://github.com/ajayns/react-projects
+   [BONUS] Group Trip Manager: Manage and keep track of your group trips. https://github.com/ajayns/react-projects
+   [BONUS] Property Finder: Search for and list properties. https://github.com/ajayns/react-projects
+   [BONUS] Reddit Clone: Learn about how APIs work by building a react-redux-thunk project that calls the RedditAPI to fetch posts from selected subreddits. https://github.com/ajayns/react-projects
+
+
+
+
 
 
 
