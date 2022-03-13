@@ -15,6 +15,25 @@ Commenced March 13th 2022 -- End June 20th 2022.
 3. Successfuly develop 15 projects along the way.
 4. Be a Badass MERN Stack Developer.
 
+
+⬅️ Prerequisites before learning React:
+    Functions are first-class citizens in JavaScript
+    bind(), apply(), and call()
+    scopes and closures
+    this
+    Object Methods
+    Array Methods
+    Prototypical Inheritance -> ES6 Class
+    Callbacks and Promises
+    Event Loop
+    Event Bubbling
+    Regular Expressions
+    Error Handling
+    JavaScript ES6 and beyond
+    Hoisting, Memoization
+    Declarative vs imperative programming
+    Functional vs object-oriented programming
+
 📖 Additional Resources
 1. React Docs
 2. Egghead- React
