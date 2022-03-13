@@ -33,7 +33,7 @@ Commenced March 13th 2022 -- End June 20th 2022.
 Week 1
 Treehouse’s 7 hour React course https://teamtreehouse.com/tracks/learn-react Note: Treehouse offers a 7-day free trial
 
- React Basics
+ React Basics (go through ReactJs Documentations critically)
  React Components
  Using Create React App
  React Context API
