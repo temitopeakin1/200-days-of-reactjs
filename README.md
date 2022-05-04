@@ -1,7 +1,7 @@
 🤔#100-days-of-reactjs
 Starting from the Basic fundamentals progressing to Intermediate. It's a commitment to Master React for the next 100days, and build a Solid Project every weekend.
 
-Commenced March 27th 2022 -- End July 3rd 2022.
+Commenced May 5th 2022 -- End August 12th 2022.
 
 📋 What’s the plan?
 1. Code for a minimum of 3hours everyday on React.
@@ -14,6 +14,7 @@ Commenced March 27th 2022 -- End July 3rd 2022.
 2. Discipline myself to watch out for important terms, background informations that might help along the way.
 3. Successfuly develop 15 projects along the way.
 4. Be a Badass MERN Stack Developer.
+
 
 
 ⬅️ Prerequisites before learning React:
@@ -95,6 +96,9 @@ Free Code Camp React Course https://learn.freecodecamp.org/front-end-libraries/r
 
  Use Default Props
  Override Default Props
+
+
+
  Use PropTypes to Define the Props You Expect
  Access Props Using this.props
  Review Using Props with Stateless Functional Components
