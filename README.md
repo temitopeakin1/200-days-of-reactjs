@@ -1,5 +1,5 @@
 🤔#100-days-of-reactjs
-Starting from the Basic fundamentals progressing to Intermediate. It's a commitment to Master React for the next 100days, and build a Solid Project every weekend.
+Starting from the Basic fundamentals progressing to Intermediate to Ninja. It's a commitment to Master React for the next 100days, and build a Solid Project every weekend.
 
 Commenced April 4th 2023 -- End July 12th 2023.
 
