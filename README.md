@@ -1,7 +1,7 @@
 🤔#100-days-of-reactjs
 Starting from the Basic fundamentals progressing to Intermediate. It's a commitment to Master React for the next 100days, and build a Solid Project every weekend.
 
-Commenced Dec 15th 2022 -- End March 24th 2023.
+Commenced April 4th 2023 -- End July 12th 2023.
 
 📋 What’s the plan?
 1. Code for a minimum of 3hours everyday on React.
