@@ -1,7 +1,7 @@
-🤔#100-days-of-reactjs
-Starting from the Basic fundamentals progressing to Intermediate to Ninja. It's a commitment to Master React for the next 100days, and build a Solid Project every weekend.
+🤔#200-days-of-reactjs
+Starting from the Basic fundamentals progressing to Intermediate to Ninja. It's a commitment to Master React for the next 200days, and build a Solid Project every weekend.
 
-Commenced April 4th 2023 -- End July 12th 2023.
+Commenced June 19th 2023 -- .
 
 📋 What’s the plan?
 1. Code for a minimum of 3hours everyday on React.
@@ -10,9 +10,9 @@ Commenced April 4th 2023 -- End July 12th 2023.
 4. Build a Project during the weekend.(Saturday-Sunday)
 
 🎯 Goal
-1. Finish the 100days of coding in reactjs without a skip.
+1. Finish the 200days of coding in reactjs without a skip.
 2. Discipline myself to watch out for important terms, background informations that might help along the way.
-3. Successfuly develop 15 projects along the way.
+3. Successfuly develop 30 projects along the way.
 4. Be a Badass MERN Stack Developer.
 
 
@@ -47,7 +47,7 @@ Commenced April 4th 2023 -- End July 12th 2023.
 9. FrontEndMasters - React
 10. FreeCodeCamp - React
 11. Scrimba - React
-12. Bonus: Harvard CS50 Mobile App Developement with React Native
+12. Bonus: Harvard CS50 Mobile App Development with React Native
 13. Mastering Full stack React Web development-- Tomasz Dyl
 
 📖 Reading Resources:
